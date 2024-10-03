@@ -1,7 +1,0 @@
-{
-  "type": "sfreeze:sfreezing",
-  "ingredient": {
-    "item": "minecraft:brick"
-  },
-  "result": "minecraft:clay_ball"
-}

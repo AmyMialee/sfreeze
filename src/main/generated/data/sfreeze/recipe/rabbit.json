@@ -1,0 +1,9 @@
+{
+  "type": "sfreeze:sfreezing",
+  "ingredient": {
+    "item": "minecraft:cooked_rabbit"
+  },
+  "result": {
+    "id": "minecraft:rabbit"
+  }
+}

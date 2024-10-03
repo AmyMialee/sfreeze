@@ -1,7 +1,0 @@
-{
-  "type": "sfreeze:sfreezing",
-  "ingredient": {
-    "item": "minecraft:smooth_quartz"
-  },
-  "result": "minecraft:quartz_block"
-}

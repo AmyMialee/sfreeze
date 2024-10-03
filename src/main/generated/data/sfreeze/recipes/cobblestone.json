@@ -1,7 +1,0 @@
-{
-  "type": "sfreeze:sfreezing",
-  "ingredient": {
-    "item": "minecraft:stone"
-  },
-  "result": "minecraft:cobblestone"
-}

@@ -1,7 +1,0 @@
-{
-  "type": "sfreeze:sfreezing",
-  "ingredient": {
-    "item": "minecraft:glass"
-  },
-  "result": "minecraft:sand"
-}

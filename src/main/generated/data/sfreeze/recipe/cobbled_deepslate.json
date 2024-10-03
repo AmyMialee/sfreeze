@@ -1,0 +1,9 @@
+{
+  "type": "sfreeze:sfreezing",
+  "ingredient": {
+    "item": "minecraft:deepslate"
+  },
+  "result": {
+    "id": "minecraft:cobbled_deepslate"
+  }
+}

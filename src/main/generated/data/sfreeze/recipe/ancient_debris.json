@@ -1,0 +1,9 @@
+{
+  "type": "sfreeze:sfreezing",
+  "ingredient": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "minecraft:ancient_debris"
+  }
+}

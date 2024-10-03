@@ -1,0 +1,9 @@
+{
+  "type": "sfreeze:sfreezing",
+  "ingredient": {
+    "item": "minecraft:cracked_deepslate_tiles"
+  },
+  "result": {
+    "id": "minecraft:deepslate_tiles"
+  }
+}

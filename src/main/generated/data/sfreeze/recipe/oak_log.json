@@ -1,0 +1,9 @@
+{
+  "type": "sfreeze:sfreezing",
+  "ingredient": {
+    "item": "minecraft:charcoal"
+  },
+  "result": {
+    "id": "minecraft:oak_log"
+  }
+}

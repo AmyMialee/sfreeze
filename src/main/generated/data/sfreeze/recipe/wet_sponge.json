@@ -1,0 +1,9 @@
+{
+  "type": "sfreeze:sfreezing",
+  "ingredient": {
+    "item": "minecraft:sponge"
+  },
+  "result": {
+    "id": "minecraft:wet_sponge"
+  }
+}

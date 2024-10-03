@@ -1,7 +1,0 @@
-{
-  "type": "sfreeze:sfreezing",
-  "ingredient": {
-    "item": "minecraft:baked_potato"
-  },
-  "result": "minecraft:potato"
-}

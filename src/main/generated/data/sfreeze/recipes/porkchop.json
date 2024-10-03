@@ -1,7 +1,0 @@
-{
-  "type": "sfreeze:sfreezing",
-  "ingredient": {
-    "item": "minecraft:cooked_porkchop"
-  },
-  "result": "minecraft:porkchop"
-}
